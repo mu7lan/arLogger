@@ -1,8 +1,4 @@
-﻿// (c) 2016 by Dale Scott
-// (c) 2016 by Steve Pye
-// Provided according to the 2-clause BSD License.
-// https://opensource.org/licenses/BSD-2-Clause
-
+﻿
 // Gets measurement from I2C TLV493D using Wire library
 
 /*Beginning of Auto generated code by Atmel studio */
